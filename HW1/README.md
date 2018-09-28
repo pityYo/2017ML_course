@@ -1,6 +1,6 @@
 + Description
 
-Implementation of Decision tree and K-fold cross validation
+> Implementation of Decision tree and K-fold cross validation
 
 Setup
 Need Iris dataset
