@@ -11,5 +11,5 @@
 > gcc 5.4.0
 
 + Run
- RF.sh for random forest
- run.sh for single decision tree
+ > RF.sh for random forest
+ > run.sh for single decision tree
