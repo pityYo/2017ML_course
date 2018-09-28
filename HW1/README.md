@@ -4,13 +4,13 @@
 
 + Setup
 '''
-> Need Iris dataset
+> Need Iris dataset  
 > link: [https://archive.ics.uci.edu/ml/datasets/Iris]
 
 + Environment
-> Ubuntu 16.04LTS
-> gcc 5.4.0
+> Ubuntu 16.04LTS  
+> gcc 5.4.0  
 
 + Run
- > RF.sh for random forest
- > run.sh for single decision tree
+ > RF.sh for random forest  
+ > run.sh for single decision tree  
